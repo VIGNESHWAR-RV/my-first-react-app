@@ -46,8 +46,8 @@ import "./App.css";
 // }
 
 export default function App() {
+  
   const movies =[
-
   {name:"RRR",
   image:"https://www.filmibeat.com/ph-big/2021/12/rrr_163903031450.jpg",
   rating:9,
