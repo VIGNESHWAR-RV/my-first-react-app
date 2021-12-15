@@ -83,7 +83,7 @@ body{
 .Movies{
   border: 2px solid black;
   box-shadow: 0px 0px 5px 1px white;
-  opacity: 80%;
+  opacity: 0.5;
   border-radius: 15px;
   overflow: hidden;
   background: rgb(149, 1, 1);
@@ -92,7 +92,7 @@ body{
         transform: scale(1.1);
         transition: all 0.3s ease-in-out;
         box-shadow: 1px 1px 5px 2px red;
-        opacity: 100%;
+        opacity: 0;
 }
 .Text{
   display:flex;
