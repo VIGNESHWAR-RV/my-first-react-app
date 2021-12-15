@@ -100,5 +100,3 @@ function First({name,image,rating,summary}){
   </div>
          );
 }
-
-
